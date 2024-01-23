@@ -5,4 +5,5 @@ https://public.tableau.com/app/profile/vaishali.jain3705/viz/Bank_marketing_data
 
 Tableau file - Dashboard_marketing_data.twb
 
-Storytelling and design descriptions about the visuals and dashboard- Tableau_marketing.pdf
+This repository contains a Tableau project focused on bank marketing data. The tableau file includes visualizations and an integrated dashboard that provides insights into client subscriptions for the current campaign.
+
